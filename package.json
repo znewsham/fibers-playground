@@ -1,0 +1,15 @@
+{
+  "name": "test-fibers",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "gypfile": true,
+  "dependencies": {
+    "fibers": "^5.0.0",
+    "node-addon-api": "^3.1.0",
+    "nopt": "^5.0.0"
+  },
+  "devDependencies": {
+    "node-gyp": "^8.0.0"
+  }
+}
